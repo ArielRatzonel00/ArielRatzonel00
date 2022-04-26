@@ -2,7 +2,7 @@
 I am a M.Sc student in Data Science with a minor in Innovation & Entrepreneurship @EIT Digital.
 I am currently living in Milan, Italy and syudying at @Politecnico di Milano. In September I am mooving to Madrid @Universidad Politécnica de Madrid as part of my double degree program.
 
-## :mortar_board: **Education:**
+## :mortar_board: **Education**
  - Master of Science in Data Science at `Politecnico di Milano`and `Universidad Politécnica de Madrid`
  - Bachelor of Science in Computer Science and Engineering at `Politecnico di Milano`
 ## :seedling: Currently Learning
