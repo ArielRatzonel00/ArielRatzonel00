@@ -6,8 +6,8 @@ I am currently living in Milan, Italy and syudying at @Politecnico di Milano. In
  - Master of Science in Data Science at `Politecnico di Milano`and `Universidad Politécnica de Madrid`
  - Bachelor of Science in Computer Science and Engineering at `Politecnico di Milano`
 ## 📌 **Projects**
- - [DL-Leaves-Images-Classificator ](https://github.com/manuelsalamino/Master-Thesis)
- - [DL-Time-Series-Forecasting ](https://github.com/manuelsalamino/Spotify_Top30_Analysis)
+ - [DL-Leaves Images Classificator](https://github.com/manuelsalamino/Master-Thesis)
+ - [DL-Time Series Forecasting](https://github.com/manuelsalamino/Spotify_Top30_Analysis)
  - [Recommender Systems Project](https://github.com/manuelsalamino/Data_Intelligence_App)
  - [Graph Ranker](https://github.com/manuelsalamino/Distributed_Job_Scheduling)
 ## :seedling: Currently Learning
