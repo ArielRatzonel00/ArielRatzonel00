@@ -10,8 +10,6 @@ I am currently living in Milan, Italy and syudying at @Politecnico di Milano. In
  - [DL-Time-Series-Forecasting ](https://github.com/manuelsalamino/Spotify_Top30_Analysis)
  - [Recommender Systems Project](https://github.com/manuelsalamino/Data_Intelligence_App)
  - [Graph Ranker](https://github.com/manuelsalamino/Distributed_Job_Scheduling)
- - [Bachelor Thesis - 'Localizzazione di scale in planimetrie'](https://github.com/manuelsalamino/FindStairs)
- - [Email Classifier](https://github.com/manuelsalamino/EmailClassifier) - my first project on AI
 ## :seedling: Currently Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPY-%23013243.svg?style=flat&logo=numpy&logoColor=white)
