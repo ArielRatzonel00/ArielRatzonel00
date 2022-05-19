@@ -11,6 +11,7 @@ I am currently living in Milan, Italy and syudying at @Politecnico di Milano. In
  - [Recommender Systems Project](https://github.com/ArielRatzonel00/RecSys-Competition-polimi-21-22) `Python`
  - [Graph Ranker](https://github.com/ArielRatzonel00/GraphRanker) `C`
  - [Software Engineering Project](https://github.com/ArielRatzonel00/ing-sw-2021-polattini-ratzonel-salaris) `Java`
+ - [Playbot4All](https://github.com/ArielRatzonel00/Playbot4all) `C++`
 ## :seedling: Currently Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPY-%23013243.svg?style=flat&logo=numpy&logoColor=white)
