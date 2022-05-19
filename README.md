@@ -6,18 +6,18 @@ I am currently living in Milan, Italy and syudying at @Politecnico di Milano. In
  - Master of Science in Data Science at `Politecnico di Milano`and `Universidad Politécnica de Madrid`
  - Bachelor of Science in Computer Science and Engineering at `Politecnico di Milano`
 ## 📌 **Projects**
- - [DL-Leaves Images Classificator](https://github.com/manuelsalamino/Master-Thesis)
- - [DL-Time Series Forecasting](https://github.com/manuelsalamino/Spotify_Top30_Analysis)
- - [Recommender Systems Project](https://github.com/manuelsalamino/Data_Intelligence_App)
- - [Graph Ranker](https://github.com/manuelsalamino/Distributed_Job_Scheduling)
- - [Software Engineering Project](https://github.com/ArielRatzonel00/ing-sw-2021-polattini-ratzonel-salaris)
+ - [DL-Leaves Images Classificator](https://github.com/manuelsalamino/Master-Thesis) 'Python'
+ - [DL-Time Series Forecasting](https://github.com/manuelsalamino/Spotify_Top30_Analysis) 'Python'
+ - [Recommender Systems Project](https://github.com/manuelsalamino/Data_Intelligence_App) 'Python'
+ - [Graph Ranker](https://github.com/manuelsalamino/Distributed_Job_Scheduling) 'C'
+ - [Software Engineering Project](https://github.com/ArielRatzonel00/ing-sw-2021-polattini-ratzonel-salaris) 'Java'
 ## :seedling: Currently Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPY-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ## 🔧 Technologies & Tools
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-61DAFB?logo=C&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/-C-61DAFB?logo=C&logoColor=white&style=flat) 
 ![MySQL](https://img.shields.io/badge/MySQL-581845.svg?style=flat&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ## :bust_in_silhouette: Socials
