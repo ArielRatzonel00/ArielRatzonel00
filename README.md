@@ -6,10 +6,10 @@ I am currently living in Milan, Italy and syudying at @Politecnico di Milano. In
  - Master of Science in Data Science at `Politecnico di Milano`and `Universidad Politécnica de Madrid`
  - Bachelor of Science in Computer Science and Engineering at `Politecnico di Milano`
 ## 📌 **Projects**
- - [DL-Leaves Images Classificator](https://github.com/manuelsalamino/Master-Thesis) `Python`
- - [DL-Time Series Forecasting](https://github.com/manuelsalamino/Spotify_Top30_Analysis) `Python`
- - [Recommender Systems Project](https://github.com/manuelsalamino/Data_Intelligence_App) `Python`
- - [Graph Ranker](https://github.com/manuelsalamino/Distributed_Job_Scheduling) `C`
+ - [DL-Leaves Images Classificator](https://github.com/ArielRatzonel00/DL-Leaves-Images-Classificator) `Python`
+ - [DL-Time Series Forecasting](https://github.com/ArielRatzonel00/DL-Time-Series-Forecasting) `Python`
+ - [Recommender Systems Project](https://github.com/ArielRatzonel00/RecSys-Competition-polimi-21-22) `Python`
+ - [Graph Ranker](https://github.com/ArielRatzonel00/GraphRanker) `C`
  - [Software Engineering Project](https://github.com/ArielRatzonel00/ing-sw-2021-polattini-ratzonel-salaris) `Java`
 ## :seedling: Currently Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
